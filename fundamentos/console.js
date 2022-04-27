@@ -1,7 +1,10 @@
-//log => registro
+/*log => registro
 
-let minhaVar = true;
+//let minhaVar = true;
 
 console.log(123)
 console.log("Olá")
 console.log(minhaVar)
+*/
+console.error("Deu erro aqui!")
+console.error(new Error("Deu erro aqui!"))
