@@ -6,5 +6,6 @@ if (idadeCliente >= idadeMinima) {
 } else {
     console.log("Você não pode beber!")
 }
-
-console.log(idadeCliente>=idadeMinima ?"cerveja" : "suco")
+                                        //True      //False
+console.log(idadeCliente>=idadeMinima ?"cerveja" : "suco") //Operador Ternario
+console.log(8>4 ? "sim" : "não")
