@@ -12,3 +12,6 @@ function nomeIdade(nome, idade){
     return `Meu nome é ${nome} e minha idade é ${idade} anos`
 }
 
+tabuada(9);
+console.log(nomeIdade("João", 20));
+console.log(tabuadaDois(3, 6));
