@@ -4,10 +4,11 @@ function tabuada(numero){
     }
 }
 
-tabuada(9);
-
 function tabuadaDois(numUm, numDois){
-    return numUm * numDois;
+    return `${numUm} * ${numDois} = ${numUm * numDois}`;
 }
 
-console.log(tabuadaDois(8, 7));
+function nomeIdade(nome, idade){
+    return `Meu nome é ${nome} e minha idade é ${idade} anos`
+}
+
