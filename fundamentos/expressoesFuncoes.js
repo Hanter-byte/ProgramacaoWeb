@@ -6,4 +6,5 @@ function apresentar(){
 }
 
 //Não pode ser executado antes da inicilização
+//Se comporta como variavel
 const soma = function(num1, num2) {return num1 + num2}
